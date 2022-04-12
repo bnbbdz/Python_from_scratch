@@ -6,7 +6,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-git">About The Git</a>
     </li>
     <li>
       <a href="#Data type in Python">Data type in Python</a>
@@ -20,42 +20,42 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+### About The Project
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- Data type in Python -->
-## Data type in Python
+### Data type in Python
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- Data structure in Python -->
-## Data structure in Python
+### Data structure in Python
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- DataFrame in Python -->
-## DataFrame in Python
+### DataFrame in Python
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- Crawl stock data store to aws s3 and schedule task with AWS Lambda -->
-## Crawl stock data store to aws s3 and schedule task with AWS Lambda
+### Crawl stock data store to aws s3 and schedule task with AWS Lambda
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
-## Contact
+### Contact
 
 Email: manhcuong193@gmail.com
 
