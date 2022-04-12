@@ -19,8 +19,8 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-### About The Project
+<!-- ABOUT THE Git -->
+### About The Git
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
