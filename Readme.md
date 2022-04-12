@@ -9,14 +9,11 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Data type in Python">Getting Started</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Data structure in Python">Usage</a></li>
+    <li><a href="#DataFrame in Python">Roadmap</a></li>
+    <li><a href="#Crawl stock data store to aws s3 and schedule task with AWS Lambda">Contributing</a></li>
   </ol>
 </details>
 
@@ -29,17 +26,8 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-### Built With
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- Data type in Python -->
+## Data type in Python
 
 
 
@@ -47,14 +35,23 @@
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- Data structure in Python -->
+## Data structure in Python
+
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- DataFrame in Python -->
+## DataFrame in Python
 
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- Crawl stock data store to aws s3 and schedule task with AWS Lambda -->
+## Crawl stock data store to aws s3 and schedule task with AWS Lambda
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -70,27 +67,11 @@
 
 
 
-<!-- LICENSE -->
-## License
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
 ## Contact
 
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+Email: manhcuong193@gmail.com
 
 
